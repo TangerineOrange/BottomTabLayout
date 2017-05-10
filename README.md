@@ -4,7 +4,7 @@ A bottom navigation view, with Fragment and bottom Tab combination, click Tab at
 
 Preview
 -------
-![](https://github.com/TangerineOrange/BottomTabLayout/tree/master/screenshot/GIF_20170509_160753.gif)  
+![](https://github.com/TangerineOrange/BottomTabLayout/raw/master/screenshot/GIF_20170509_160753.gif)  
 
 How to use
 --------
