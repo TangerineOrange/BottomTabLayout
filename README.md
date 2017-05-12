@@ -10,7 +10,7 @@ How to use
 --------
 ### build.gradle
 ```gradle
-compile 'com.tangerineorange:bottomtablayout:1.0.0'  //(under review)
+compile 'com.tangerineorange:bottomtablayout:1.0.0'  
 ```
 
 ### Java
